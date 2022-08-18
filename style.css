@@ -1,0 +1,27 @@
+.banner{
+    background: url("https://img3.wallspic.com/crops/0/6/6/9/4/149660/149660-city_skyline_during_night_time-5120x2880.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+.lingkaran{
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #dc3545;
+}
+
+.kontak img{
+    height: auto;
+    max-height: 70px;
+}
+
+.stechoq{
+    width: 50px;
+    height: 50px;
+}
