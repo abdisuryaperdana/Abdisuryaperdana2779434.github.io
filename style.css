@@ -6,16 +6,6 @@
     color: #fff;
 }
 
-.lingkaran{
-    display: inline-block;
-    border-radius: 50%;
-    width: 150px;
-    margin: auto;jaja
-    height: 150px;
-    color: #fff;
-    background-color: #dc3545;
-}
-
 .kontak img{
     height: auto;
     max-height: 70px;
